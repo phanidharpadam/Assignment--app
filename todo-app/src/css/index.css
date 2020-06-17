@@ -1,0 +1,43 @@
+.btn {
+  background-color: #4caf50;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  zoom: 1.5;
+  border-radius: 50%;
+}
+
+.inputStyles {
+  width: auto;
+  padding: 8px 8px 8px 0px;
+  transition: width 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  padding-left: calc(1em + 32px);
+  font: inherit;
+
+  border: 0;
+  height: 1.1876em;
+  margin: 0;
+  display: block;
+  min-width: 0;
+  background: none;
+  box-sizing: content-box;
+  animation-name: mui-auto-fill-cancel;
+  letter-spacing: inherit;
+  animation-duration: 10ms;
+  -webkit-tap-highlight-color: transparent;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: white !important;
+}
+
+::placeholder {
+  color: white !important;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: white !important;
+}

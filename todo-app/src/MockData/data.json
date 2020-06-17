@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "currentState": true,
+      "title": "Measures of location",
+      "description": "Measures of location tell you where your data is centered at, or where a trend lies. Click on one of the following common measures of location for a full definition and examples for that particular measure:",
+      "createdAt": "4/12/2020",
+      "dueDate": "6/30/2020",
+      "priority": "High"
+    },
+    {
+      "id": 1,
+      "currentState": false,
+      "title": "Measures of Spread",
+      "description": "Measures of spread tell you (perhaps not surprisingly!) how spread out or varied your data set is. This can be important information. For example, test scores that are in the 60-90 range might be expected while scores in the 20-70 range might indicate a problem. Range isn’t the only measure of spread though. Click on one of the names below for a full definition of that particular measure of spread.",
+      "createdAt": "6/14/2020",
+      "dueDate": "6/20/2020",
+      "priority": "Medium"
+    },
+    {
+      "id": 2,
+      "currentState": true,
+      "title": "Graphs and Charts",
+      "description": "There are literally dozens of ways to display summary data using graphs or charts. Some of the most common ones are listed below. Click on any name for a definition of that particular chart type.",
+      "createdAt": "4/30/2020",
+      "dueDate": "6/14/2020",
+      "priority": "Low"
+    },
+    {
+      "id": 3,
+      "currentState": false,
+      "title": "Critical Value",
+      "description": "A critical value is a line on a graph that splits the graph into sections. One or two of the sections is the “rejection region”; if your test value falls into that region, then you reject the null hypothesis.",
+      "createdAt": "6/20/2020",
+      "dueDate": "6/28/2020",
+      "priority": "High"
+    },
+    {
+      "id": 4,
+      "currentState": true,
+      "title": "Binomial",
+      "description": "The most common form of the binomial theorem (sometimes called a binomial expansion) used in statistics ",
+      "createdAt": "6/14/2020",
+      "dueDate": "7/14/2020",
+      "priority": "Low"
+    },
+    {
+      "id": 5,
+      "currentState": false,
+      "title": "Hypothesis",
+      "description": "A hypothesis is an educated guess about something in the world around you. It should be testable, either by experiment or observation.",
+      "createdAt": "5/14/2020",
+      "dueDate": "8/14/2020",
+      "priority": ["Medium"]
+    }
+  ]
+}
